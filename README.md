@@ -1,1 +1,1 @@
-# Examen-P1-Progra-2
+# Examen-P1-Programación-2
